@@ -5,6 +5,8 @@
 
 Here are some ideas to get you started:
 
+-->
+
 - 🔭 I’m currently working on nothing but to survive (能活着就不错了)
 - 🌱 I’m currently learning several languages, such as Italian and German
 - 👯 I’m looking to collaborate on nothing
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: slnsinlangmc@sina.com
 - 😄 Pronouns: 施坦歪
 - ⚡ Fun fact: I am a robot.
--->
